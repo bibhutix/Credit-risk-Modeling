@@ -1,7 +1,7 @@
-🧠 Credit Risk Modeling using Machine Learning
-This project focuses on predicting credit risk categories using machine learning techniques. By analyzing data from both bureau sources and internal product data, the model classifies credit applicants into different risk levels, helping financial institutions make data-driven lending decisions.
+<h1>🧠 Credit Risk Modeling using Machine Learning</h1>
+<h4>This project focuses on predicting credit risk categories using machine learning techniques. By analyzing data from both bureau sources and internal product data, the model classifies credit applicants into different risk levels, helping financial institutions make data-driven lending decisions.</h4>
 
-🚀 Project Highlights
+<h4>🚀 Project Highlights</h4>
 ✅ Processed and analyzed 50,000+ records with 35+ features from diverse sources.
 
 📊 Conducted exploratory data analysis (EDA) to uncover trends, outliers, and correlations.
@@ -14,7 +14,7 @@ This project focuses on predicting credit risk categories using machine learning
 
 
 
-📈 Machine Learning Pipeline
+<h4>📈 Machine Learning Pipeline</h4>
 *1)* Data Collection
 Integrated data from credit bureau and internal product sources.
 
